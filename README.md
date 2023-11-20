@@ -45,7 +45,7 @@
 - ℹ️ My Info: Discord: nguyenminhtien_tiny | Telegram: @mingnitetiny
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/ImTienNguyenZ"><img src="https://skillicons.dev/icons?i=vscode,replit,github,python,css,html,js,express,bots,nodejs,androidstudio,unity,cpp,lua,bash"> </a> </p>
+<p align="left"> <a href="https://github.com/ImTienNguyenZ"><img src="https://skillicons.dev/icons?i=vscode,replit,github,python,css,html,js,express,bots,nodejs,androidstudio,unity,cpp,lua,bash,heroku,photoshop,xd,ae,au,pr,blender,cloudflare,codepen,java,github,django,raspberrypi,unreal,replit,visualstudio,remix"> </a> </p>
 
 ## My Stats:
 <p align="center">
@@ -62,6 +62,6 @@
 
 ## Top Respositorys
   <p align="left">
-   <a href="https://github.com/ImTienNguyenZ/ImTienNguyenZ"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ImTienNguyenZ&repo=ImTienNguyenZ&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/ImTienNguyenZ/SourceCheatLienQuan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ImTienNguyenZ&repo=SourceCheatLienQuan&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
