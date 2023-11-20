@@ -45,7 +45,7 @@
 - ℹ️ My Info: Discord: nguyenminhtien_tiny | Telegram: @mingnitetiny
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/ImTienNguyenZ"><img src="https://skillicons.dev/icons?i=vscode,replit,github,python,css,html,js,express,bots,nodejs,androidstudio,unity,cpp,lua,bash,heroku,photoshop,xd,ae,au,pr,blender,cloudflare,codepen,java,github,django,raspberrypi,unreal,visualstudio,remix"> </a> </p>
+<p align="left"> <a href="https://github.com/ImTienNguyenZ"><img src="https://skillicons.dev/icons?i=vscode,replit,github,python,css,html,js,express,bots,nodejs,androidstudio,unity,cpp,lua,bash,heroku,photoshop,xd,ae,au,pr,blender,cloudflare,codepen,java,django,raspberrypi,unreal,visualstudio,remix"> </a> </p>
 
 ## My Stats:
 <p align="center">
